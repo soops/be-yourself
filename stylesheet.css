@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'be_yourselfregular';
+  src: url('be_yourself-webfont.woff2') format('woff2'),
+       url('be_yourself-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'be_yourselfregular', sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+body p {
+  text-align: justify;
+  font-size: 18px;
+}
+
+body h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+body h2 {
+  text-align: center;
+  opacity: 0.75;
+  margin-top: 0;
+  font-weight: normal;
+}
