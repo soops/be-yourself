@@ -8,6 +8,7 @@
 
 body {
   font-family: 'be_yourselfregular', sans-serif;
+  -webkit-font-smoothing: none;
   max-width: 900px;
   margin: 0 auto;
   padding: 30px;
